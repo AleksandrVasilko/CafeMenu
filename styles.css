@@ -18,6 +18,15 @@ p {
   max-width: 500px;
 }
 
+h1,
+h2 {
+  font-family: Impact;
+}
+
+.item p {
+  display: inline-block;
+}
+
 .flavor,
 .dessert {
   text-align: left;
@@ -27,8 +36,4 @@ p {
 .price {
   text-align: right;
   width: 24%;
-}
-
-.item p {
-  display: inline-block;
 }
