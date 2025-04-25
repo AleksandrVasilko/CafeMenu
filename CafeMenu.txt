@@ -129,3 +129,8 @@ selector1, selector2 {
 Пример кода
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+
+
+Шаг 18
+Текст снова центрирован, так что ссылка на файл CSS работает. Добавить в файл другой стиль, который изменяет свойство background-color на коричневый brown для элемента body.
